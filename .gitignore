@@ -41,6 +41,9 @@ bom/
 # Gerber export output
 out/
 
+# Library
+easyeda2kicad/
+
 ### macOS ###
 # General
 .DS_Store
